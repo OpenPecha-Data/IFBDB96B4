@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W25114
   title: འཐུས་སྒོ་ཚང་བའི་བསམ་བློ།
-  volume: ''
+  volume:
+    d579d00af82b4482b96c53bc8296b84e:
+      image_group_id: I1KG12344
+      title: Volume 1 of 'thus sgo tshang ba'i bsam blo/
+      volume_number: 1
+      total_pages: 434
   author: ''
+ebook_metadata:
+  title: འཐུས་སྒོ་ཚང་བའི་བསམ་བློ།
+  author: ''
+  sku: P008031
+  cover: cover.jpg
+  layers:
+  - pagination
